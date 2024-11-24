@@ -1,12 +1,11 @@
-
-import React from "react";
-import Gamecom from "./components/Gamecom";
+import './App.css';
+import AnimalTable from './components/AnimalTable';
 
 function App() {
   return (
-    <>
-      <Gamecom></Gamecom>
-    </>
+    <div className="App">
+      <AnimalTable/>
+    </div>
   );
 }
 
