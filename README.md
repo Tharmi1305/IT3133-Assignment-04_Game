@@ -61,9 +61,11 @@ Before you begin, ensure you have the following installed on your system:
 
 # Screenshots
 ### Winning Screen
-![Winning Screen](WinningScreen.png)
+<img width="1920" height="1080" alt="WinningScreen" src="https://github.com/user-attachments/assets/6a8ce737-06dd-4a46-ba64-0a50977ccc08" />
+
 
 ### Losing Screen
-![alt text](LosingScreen.png)
+<img width="1920" height="1080" alt="LosingScreen" src="https://github.com/user-attachments/assets/802102b4-d807-44f8-9a2a-29f4e93a66e4" />
+
 
 ---
